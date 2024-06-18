@@ -1,5 +1,3 @@
-import {createStore, combineReducers} from "redux";
-
 const initialStateAccount = {
     balance: 0,
     loanAmount: 0,
